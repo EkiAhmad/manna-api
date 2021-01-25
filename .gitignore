@@ -1,0 +1,15 @@
+/uploads/*
+application/config/database.php
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+vendor
+application/logs/*
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
